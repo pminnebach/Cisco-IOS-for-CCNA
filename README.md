@@ -4,3 +4,19 @@ These are my notes on how to configure Cisco IOS routers and switches through th
 
 I might misinterpret some command or use them incorrect, but i'm still learning.
 
+## Finished sections \(ish\)
+
+* Introduction
+* Basic configuration
+
+## Todo
+
+* Configuring network interfaces
+* Static routing
+* Dynamic routing
+* DHCP
+* CDP
+* Various commands
+
+
+
