@@ -7,7 +7,7 @@ I might misinterpret some command or use them incorrect, but i'm still learning.
 ## Finished sections \(ish\)
 
 * Introduction
-* Basic configuration
+* Basic configuration and security
 
 ## Todo
 
