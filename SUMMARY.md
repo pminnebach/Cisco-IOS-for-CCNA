@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
+* [Introduction](introduction.md)
 * [Basic configuration and security](basic-configuration-and-access-control.md)
 * [Configuring network interfaces](configuring-network-interfaces.md)
 * [Static routing](static-routing.md)
