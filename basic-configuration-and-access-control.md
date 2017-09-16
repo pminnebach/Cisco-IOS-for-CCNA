@@ -17,7 +17,7 @@ This defines a default domain-name to complete unqualified host names. To use it
 (config)#ip name-server <ip address>         # eg: 8.8.8.8
 ```
 
-Disable the DNS lookup of hostname. Kinda necessary if you mistype commands a lot.
+Disable the DNS lookup of hostname. You'll see why this is necessary if you mistype commands a lot. :D
 
 ```
 (config)#no ip domain lookup
