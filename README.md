@@ -32,7 +32,7 @@ Router(config)#
 
 Depending on what you are configuring the `config` between the parentheses will change into `config-line`, `config-if`, `dhcp-config`, etc.
 
-Also note that `Router` here is the name of the device. When we change the hostname in the next chapter, this will also change in the CLI. I will omit this in the rest of this book and only show the import part that defines which mode we are configuring.
+Also note that `Router` here is the name of the device. When we change the hostname in the next chapter, this will also change in the CLI. I will omit this in the rest of this book and only show the important part that defines which mode we are configuring.
 
 **Quick recap**
 
